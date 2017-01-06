@@ -5,4 +5,4 @@
 **Team**: Stephen Camera-Murray, Himani Garg, and Vijay Thangella  
 **TF**: Christine Hwang  
   
-**Due Date: ** Wednesday, December 14th, 2016 at 11:59pm
+**Due Date:** Wednesday, December 14th, 2016 at 11:59pm
